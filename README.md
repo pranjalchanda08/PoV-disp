@@ -1,2 +1,2 @@
-# Propeller Clock
+# PoV Display
 
